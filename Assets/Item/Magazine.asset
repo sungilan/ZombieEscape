@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2d2324a58c4dd240b5c9144fb024d04, type: 3}
+  m_Name: Magazine
+  m_EditorClassIdentifier: 
+  itemName: "\uD0C4\uCC3D"
+  itemDesc: "\uCD1D\uC54C\uC744 \uCD94\uAC00\uD569\uB2C8\uB2E4."
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: c1180525754d88e41ba3ecacad622c09, type: 3}
+  itemPrefab: {fileID: 5056456135555801119, guid: 81ce4b9d9bd421048987dfa1beaaf194, type: 3}
+  weaponType: 1

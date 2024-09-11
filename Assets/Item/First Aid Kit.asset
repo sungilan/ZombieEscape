@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2d2324a58c4dd240b5c9144fb024d04, type: 3}
+  m_Name: First Aid Kit
+  m_EditorClassIdentifier: 
+  itemName: "\uAD6C\uAE09\uC0C1\uC790"
+  itemDesc: "\uCCB4\uB825\uC744 \uD68C\uBCF5\uD569\uB2C8\uB2E4."
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: f2f5e528967a7994fbc5562168e2762e, type: 3}
+  itemPrefab: {fileID: 9079054535012541450, guid: 162d5c8c8e059e244beff42bbeca0e81, type: 3}
+  weaponType: 1
